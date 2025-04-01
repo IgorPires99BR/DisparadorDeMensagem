@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3r5ye0ztaH9Cs79IOdg1Rjc4w5ZCrVAf9CQ0qhZeRqjzTUUU0Sovuu2Xcr0yj8QFEGekggKCTGLBiyRGdYW0ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\DisparadorDeMensagem\\DisparadorDeMensagem.Dominio\\DisparadorDeMensagem.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
